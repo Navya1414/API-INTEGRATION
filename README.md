@@ -3,6 +3,7 @@
 COMPANY : CODTECH IT SOLUTIONS
 
 NAME : NAVYA MAGI
+
 INTENR ID : CT08ORM
 
 DOMAIN : FULL STACK WEB DEVELOPMENT
@@ -23,7 +24,7 @@ The web page is designed to send requests to an API, handle the responses effect
 
 BEFORE INPUT :
 
-
+![Image](https://github.com/user-attachments/assets/5653b41e-f426-4c0a-aa29-f34ceacc1255)
 
 AFTER INPUT :
 
