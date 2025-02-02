@@ -28,3 +28,4 @@ BEFORE INPUT :
 
 AFTER INPUT :
 
+![Image](https://github.com/user-attachments/assets/cb00380b-e1da-4c57-be25-ae049a14be88)
